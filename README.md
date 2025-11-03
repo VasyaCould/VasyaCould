@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Vasya Zhavoronkov
-- 👀 I’m interested in programming C#
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me telegram: @VasyaMolodes I don't check my email: Vasyazhavoronkov@gmail.com
-- ⚡ Fun fact: i'm 14 years old and i'm russian, по этому могу писать так
-Hobbies: moto, programming and other
-<!---
-VasyaCould/VasyaCould is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m Vasya Zhavoronkov
+
+- C#, C++, Python
+
+- 14 years old 
+
+- I’m looking to collaborate
+
+- Donation link: https://boosty.to/vasyamolodes/donate
+  
+- 📫 How to reach me:
+1. telegram: @VasyaMolodes
+2. my email: Vasyazhavoronkov@gmail.com (I don't check it)
